@@ -1,4 +1,4 @@
-module DevcampViewTool
+module DevcampCopyrightRa
   class Error < StandardError; end
   class Renderer
 		def self.copyright name, msg

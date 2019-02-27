@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "devcamp_copyright_ra"
   spec.version       = DevcampCopyrightRa::VERSION
   spec.authors       = ["Rafael Garcia"]
-  spec.email         = ["rafawow@wow.com"]
+  spec.email         = [""]
 
   spec.summary       = %q{Various view specific methods for application I use.}
   spec.description   = %q{Provides generated HTML data for Rails application.}
-  spec.homepage      = "https://rafawow.com"
+  spec.homepage      = "https://github.com/rafagarciafdz/devcamp_copyright_ra"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
